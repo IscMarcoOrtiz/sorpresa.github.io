@@ -468,7 +468,7 @@ ul li {
 .continuar {
   text-align: center;
   clear: both; /* Limpiar flotadores */
-  margin-top: 650px; /* Espacio superior */
+  margin-top: 50px; /* Espacio superior */
 }
 
 .continuar button {
