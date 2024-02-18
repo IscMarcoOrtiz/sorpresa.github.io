@@ -1,4 +1,5 @@
 body {
+  min-height: 100dvh;
   background: #41f5ce;
   font-family: 'Arial', sans-serif;
 
