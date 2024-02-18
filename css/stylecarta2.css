@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
-
+body{
+  min-height: 100dvh;
+}
 #card {
    height:500px;
    width:800px;
