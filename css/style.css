@@ -1,3 +1,6 @@
+body{
+  min-height: 100dvh;
+}
 #envelope {
   margin: 150px;
   position: relative;
